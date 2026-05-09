@@ -1,4 +1,11 @@
-
+/**
+ * @name DiscordGX
+ * @author UnluckyGuess
+ * @authorId 414558788092428299
+ * @version 3.7.1
+ * @description A theme based off of Opera GX, with nitro hiders as well.
+*/
+/* fuck off i dont want nitro nor do i care for nitro aaaaaaaaaaaaaaaa */
 
 a[data-list-item-id$="___nitro"] { display: none !important; }
 .wrapper__0829a:has(.sponsoredTag__5d00f) {
@@ -60,7 +67,7 @@ li.messageListItem__5126c:has(.subHeaderText__75e8e) {
     display: none !important;
 }
 
-
+/* -------------------Actual stuff-------------------*/
 
 :root {
     --main-accent: #ff003c;
