@@ -11,6 +11,9 @@ a[data-list-item-id$="___nitro"] { display: none !important; }
 .wrapper__0829a:has(.sponsoredTag__5d00f) {
     display: none !important;
 }
+[data-list-item-id*="___nitro"] {
+    display: none !important;
+}
 [data-list-item-id*="nitro_sidebar_item"] {
     display: none !important;
 }
