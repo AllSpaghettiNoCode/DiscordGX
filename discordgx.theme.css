@@ -11,6 +11,12 @@ a[data-list-item-id$="___nitro"] { display: none !important; }
 .wrapper__0829a:has(.sponsoredTag__5d00f) {
     display: none !important;
 }
+.badge_c2b88c.expressive_c2b88c {
+    display: none !important;
+}
+.popover_d6f39b:has(.title_d6f39b) {
+    display: none !important;
+}
 .notice__29487 {
     display: none !important;
 }
